@@ -47,19 +47,19 @@
                                         <nav id="menu">
                                             <ul id="menu-main-menu" class="menu menu-main">
                                                 <li class="current-menu-item page_item current_page_item">
-                                                    <a href="index-itservice4.html"><span>صفحه اصلی</span></a>
+                                                    <a href="/"><span>صفحه اصلی</span></a>
                                                 </li>
                                                 <li>
-                                                    <a href="content/itservice4/about.html"><span>خدمات</span></a>
+                                                    <a href="#"><span>خدمات</span></a>
                                                 </li>
                                                 <li>
-                                                    <a href="content/itservice4/services.html"><span>فروشگاه</span></a>
+                                                    <a href="#"><span>فروشگاه</span></a>
                                                 </li>
                                                 <li>
-                                                    <a href="content/itservice4/qa.html"><span>مقالات</span></a>
+                                                    <a href="#"><span>مقالات</span></a>
                                                 </li>
                                                 <li>
-                                                    <a href="content/itservice4/contact.html"><span>نقشه برد ها</span></a>
+                                                    <a href="#"><span>نقشه برد ها</span></a>
                                                 </li>
                                                 <li>
                                                     <a href="tel:09123456789">
@@ -522,7 +522,7 @@
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_button">
-                                                <a class="button button_size_1 button_theme" href="content/itservice4/contact.html"><span class="button_label">تماس با ما</span></a>
+                                                <a class="button button_size_1 button_theme" href="#"><span class="button_label">تماس با ما</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -607,19 +607,19 @@
                             <nav id="social-menu" class="menu-footer-container">
                                 <ul id="menu-footer" class="social-menu">
                                     <li class="current-menu-item page_item current_page_item">
-                                        <a href="index-itservice4.html" aria-current="page">صفحه اصلی</a>
+                                        <a href="/" aria-current="page">صفحه اصلی</a>
                                     </li>
                                     <li>
-                                        <a href="content/itservice4/about.html">درباره ما</a>
+                                        <a href="#">درباره ما</a>
                                     </li>
                                     <li>
-                                        <a href="content/itservice4/services.html">خدمات</a>
+                                        <a href="#">خدمات</a>
                                     </li>
                                     <li>
-                                        <a href="content/itservice4/qa.html">پرسش و پاسخ</a>
+                                        <a href="#">پرسش و پاسخ</a>
                                     </li>
                                     <li>
-                                        <a href="content/itservice4/contact.html">تماس</a>
+                                        <a href="#">تماس</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -633,7 +633,7 @@
                 <a href="#" class="close"><i class="icon-cancel-fine"></i></a>
             </div>
             <div class="extras">
-                <a href="content/itservice4/contact.html" class="action_button">به راهنمایی نیاز دارید؟</a>
+                <a href="#" class="action_button">به راهنمایی نیاز دارید؟</a>
                 <div class="extras-wrapper"></div>
             </div>
             <div class="menu_wrapper"></div>
