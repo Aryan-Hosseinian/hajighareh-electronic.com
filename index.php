@@ -351,7 +351,7 @@
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_button">
-                                                <a class="button button_size_2" href="content/itservice4/services.html"><span class="button_label">خدمات ما را مشاهده کنید</span></a>
+                                                <a class="button button_size_2" href="#"><span class="button_label">خدمات ما را مشاهده کنید</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -398,7 +398,7 @@
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_button">
-                                                <a class="button button_size_2 button_theme" href="content/itservice4/qa.html"><span class="button_label">مشاهده بیشتر</span></a>
+                                                <a class="button button_size_2 button_theme" href="#"><span class="button_label">مشاهده بیشتر</span></a>
                                             </div>
                                         </div>
                                     </div>
