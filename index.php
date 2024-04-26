@@ -275,7 +275,7 @@
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_button">
-                                                <a class="button button_size_2" href="content/itservice4/about.html"><span class="button_label">رفتن به درباره ما</span></a>
+                                                <a class="button button_size_2" href="#"><span class="button_label">درباره ما</span></a>
                                             </div>
                                         </div>
                                     </div>
