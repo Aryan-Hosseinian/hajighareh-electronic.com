@@ -36,7 +36,7 @@
                             <div class="column one" >
                                 <div  class="top_bar_right clearfix" >
                                     <div class="logo" >
-                                        <a id="logo" href="index.html" title="BeITService 4 - Betheme" data-height="60" data-padding="30">
+                                        <a id="logo" href="index.php" title="BeITService 4 - Betheme" data-height="60" data-padding="30">
                                             <img style="border-radius: 2%;" class="logo-main scale-with-grid" src="content/itservice4/images/logo.png" data-retina="content/itservice4/images/logo.png" data-height="47" />
                                             <img class="logo-sticky scale-with-grid" src="content/itservice4/images/logo.png" data-retina="content/itservice4/images/logo.png" data-height="47" />
                                             <img class="logo-mobile scale-with-grid" src="content/itservice4/images/logo.png" data-retina="content/itservice4/images/logo.png" data-height="47" />
