@@ -591,6 +591,7 @@
                                             <img width="30%" src="content/itservice4/images/1.svg" alt="ts">
                                          <!--   <input type="email" id="email_news" name="email_news" size="40" aria-required="true" aria-invalid="false" placeholder="ایمیل شما" /> -->
                                         </span>
+                                        <script src="https://zibal.ir/trust/scripts/1.js" type="text/javascript"></script>
                                        <!-- <img  width="30%" src="content/itservice4/images/2.svg" alt="ts"> -->
                                      <!--   <input type="button" value="ارسال" id="submit" onClick="return check_values_news();" />  -->
                                     </form>
