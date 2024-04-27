@@ -587,11 +587,11 @@
                                             <img src="content/itservice4/images/ts.png" alt="ts">
                                            <!-- <input type="text" id="name_news" name="name_news" size="40" aria-required="true" aria-invalid="false" placeholder="نام شما" /> -->
                                         </span>
-                                        <span>
-                                            <img width="30%" src="content/itservice4/images/1.svg" alt="ts">
+                                        <span width="30%" >
+                                        <script src="https://zibal.ir/trust/scripts/1.js" type="text/javascript"></script>
+                                         <!--   <img width="30%" src="content/itservice4/images/1.svg" alt="ts">  -->
                                          <!--   <input type="email" id="email_news" name="email_news" size="40" aria-required="true" aria-invalid="false" placeholder="ایمیل شما" /> -->
                                         </span>
-                                        <script src="https://zibal.ir/trust/scripts/1.js" type="text/javascript"></script>
                                        <!-- <img  width="30%" src="content/itservice4/images/2.svg" alt="ts"> -->
                                      <!--   <input type="button" value="ارسال" id="submit" onClick="return check_values_news();" />  -->
                                     </form>
