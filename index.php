@@ -591,7 +591,7 @@
                                         <script> 
                                     
                                     document.write(
-  '<a href="javascript:viewZibalTrust();" title="Ł¾Ų±ŲÆŲ§Ų®ŲŖ Ų¢Ł†Ł„Ų§ŪŁ† Ų²ŪŲØŲ§Ł„"><img style="width:40% " src="https://zibal.ir/trust/assets/1.png" border="0" alt="Ł¾Ų±ŲÆŲ§Ų®ŲŖ Ų¢Ł†Ł„Ų§ŪŁ† Ų²ŪŲØŲ§Ł„"></a>'
+  '<a href="javascript:viewZibalTrust();" title="Ł¾Ų±ŲÆŲ§Ų®ŲŖ Ų¢Ł†Ł„Ų§ŪŁ† Ų²ŪŲØŲ§Ł„"><img style="width:30% " src="https://zibal.ir/trust/assets/1.png" border="0" alt="Ł¾Ų±ŲÆŲ§Ų®ŲŖ Ų¢Ł†Ł„Ų§ŪŁ† Ų²ŪŲØŲ§Ł„"></a>'
 )
 function viewZibalTrust() {
   window.open(
