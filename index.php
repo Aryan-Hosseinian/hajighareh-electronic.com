@@ -587,8 +587,22 @@
                                             <img src="content/itservice4/images/ts.png" alt="ts">
                                            <!-- <input type="text" id="name_news" name="name_news" size="40" aria-required="true" aria-invalid="false" placeholder="نام شما" /> -->
                                         </span>
-                                        <span width="30%" >
-                                        <script src="https://zibal.ir/trust/scripts/1.js" type="text/javascript"></script>
+                                        <span>
+                                        <script> 
+                                    
+                                    document.write(
+  '<a href="javascript:viewZibalTrust();" title="Ł¾Ų±ŲÆŲ§Ų®ŲŖ Ų¢Ł†Ł„Ų§ŪŁ† Ų²ŪŲØŲ§Ł„"><img style="width:10% " src="https://zibal.ir/trust/assets/1.png" border="0" alt="Ł¾Ų±ŲÆŲ§Ų®ŲŖ Ų¢Ł†Ł„Ų§ŪŁ† Ų²ŪŲØŲ§Ł„"></a>'
+)
+function viewZibalTrust() {
+  window.open(
+    'https://gateway.zibal.ir/trustMe/' + window.location.hostname,
+    null,
+    'width=450, height=600, scrollbars=no, resizable=no'
+  )
+}
+                                    
+                                    
+                                    </script>
                                          <!--   <img width="30%" src="content/itservice4/images/1.svg" alt="ts">  -->
                                          <!--   <input type="email" id="email_news" name="email_news" size="40" aria-required="true" aria-invalid="false" placeholder="ایمیل شما" /> -->
                                         </span>
