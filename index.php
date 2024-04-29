@@ -355,7 +355,7 @@
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_button">
-                                                <a class="button button_size_2 button_theme" href="#"><span class="button_label">مشاهده بیشتر</span></a>
+                                                <a class="button button_size_2 button_theme" style="background-color:#0ac2ce" href="#"><span class="button_label">مشاهده بیشتر</span></a>
                                             </div>
                                         </div>
                                     </div>
