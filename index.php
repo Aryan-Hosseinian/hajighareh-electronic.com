@@ -104,7 +104,7 @@
                                         <rs-layer
                                             id="slider-1-slide-1-layer-4"
                                             data-type="text"
-                                            data-color="#f28b2b"
+                                            data-color="#0ac2ce"
                                             data-rsp_ch="on"
                                             data-xy="x:l;xo:330px,330px,206px,206px;y:b;yo:50px,50px,31px,31px;"
                                             data-text="w:normal;s:17,17,10,10;l:25,25,15,15;fw:700;"
@@ -470,7 +470,7 @@
                                             <div class="column mcb-column one column_column column-margin-20px">
                                                 <div class="column_attr clearfix">
                                                     <h4 class="itservice4-heading">به تیم ما بپیوندید</h4>
-                                                    <h2>چرا باید ما را انتخاب کنید؟</h2>
+                                                    <h2>مزایای انتخاب الکترونیکی حاجی قره</h2>
                                                     <hr class="no_line" style="margin: 0 auto 20px;" />
                                                     <h5>تعمیر تلویزیون تخصص ماست ، ما این اطمینان را به مشتری میدهیم که در صورت نیاز به تعویض قطعه با کیفیت ترین قطعات را جاگزین نماییم و برای اطمینان مشتری تمامی قطعه ها با گارانتی شرکتی خواهد بود.</h5>
                                                     <p>

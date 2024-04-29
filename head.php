@@ -29,7 +29,7 @@
                                                     <a href="#"><span>نقشه برد ها</span></a>
                                                 </li>
                                                 <li>
-                                                    <a href="tel:09123456789">
+                                                    <a href="tel:+989145910710">
                                                         <span><span style="padding: 0; color: #ffffff;">درباره ما</span></span>
                                                     </a>
                                                 </li>
