@@ -479,7 +479,7 @@
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_button">
-                                                <a class="button button_size_1 button_theme" href="#"><span class="button_label">تماس با ما</span></a>
+                                                <a class="button button_size_1 button_theme" style="background-color:#0ac2ce" href="#"><span class="button_label">تماس با ما</span></a>
                                             </div>
                                         </div>
                                     </div>
