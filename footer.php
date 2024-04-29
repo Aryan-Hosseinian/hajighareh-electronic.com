@@ -50,14 +50,14 @@
 
                                     <form id="newsletterform">
                                         <span>
-                                            <img src="content/itservice4/images/ts.png" alt="ts">
+                                           <!-- <img src="content/itservice4/images/ts.png" alt="ts"> -->
                                            <!-- <input type="text" id="name_news" name="name_news" size="40" aria-required="true" aria-invalid="false" placeholder="نام شما" /> -->
                                         </span>
                                         <span>
 
 
                                         
-                                        <script> 
+                                      <!--  <script> 
                                     
                                     document.write(
   '<a href="javascript:viewZibalTrust();" title="درگاه بانکی زیبال"><img style="width:30% " src="https://zibal.ir/trust/assets/1.png" border="0" alt="در گاه بانکی زیبال"></a>'
@@ -71,7 +71,7 @@ function viewZibalTrust() {
 }
                                     
                                     
-                                    </script>
+                                    </script> -->
 
 
 
