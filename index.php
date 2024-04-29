@@ -261,7 +261,7 @@
                                                         <div class="image_wrapper"><img class="scale-with-grid" src="content/itservice4/images/itservice-icon3.png" /></div>
                                                     </div>
                                                     <hr class="no_line" style="margin: 0 auto 15px;" />
-                                                    <h6 >در سریع ترین زمان ممکن</h6>
+                                                    <h6 style="color:white">در سریع ترین زمان ممکن</h6>
                                                 </div>
                                             </div>
                                         </div>
