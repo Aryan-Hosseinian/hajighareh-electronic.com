@@ -54,7 +54,7 @@
                                             data-frame_999="o:0;st:w;sR:7950;"
                                             style="z-index: 9; font-family: 'PeydaWebFaNum';"
                                         >
-                                            آیا تلوزیون شما دچار مشکلی شده؟
+                                            آیا تلویزیون شما دچار مشکلی شده؟
                                         </rs-layer>
                                         <h1> <rs-layer
                                             id="slider-1-slide-1-layer-1"
@@ -215,7 +215,7 @@
                                             <div class="column mcb-column one column_column">
                                                 <div class="column_attr clearfix">
                                                     <h4 class="itservice4-heading">خدماتی که ما ارائه می دهیم</h4>
-                                                    <h2>تعمیرات فوق تخصصی انواع تلوزیون و مانیتور</h2>
+                                                    <h2>تعمیرات فوق تخصصی انواع تلویزیون و مانیتور</h2>
                                                 </div>
                                             </div>
                                             <div class="column mcb-column one column_image">
@@ -291,7 +291,7 @@
                                                     <hr class="no_line" style="margin: 0 auto 20px;" />
                                                     <ul>
                                                         <li>
-                                                            تعمیرات فوق تخصصی انواع تلوزیون
+                                                            تعمیرات فوق تخصصی انواع تلویزیون
                                                         </li>
                                                         <li>
                                                             تعمیرات فوق تخصصی انواع مانیتور

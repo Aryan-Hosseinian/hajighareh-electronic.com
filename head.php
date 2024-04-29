@@ -26,7 +26,7 @@
                                                     <a href="#"><span>مقالات</span></a>
                                                 </li>
                                                 <li>
-                                                    <a href="#"><span>نقشه برد ها</span></a>
+                                                    <a href="#"><span>دیتاشیت ها</span></a>
                                                 </li>
                                                 <li>
                                                     <a href="tel:+989145910710">
