@@ -256,12 +256,12 @@
                                                 <hr class="no_line" style="margin: 0 auto 0px;" />
                                             </div>
                                             <div class="column mcb-column four-fifth column_column">
-                                                <div class="column_attr clearfix" style="background-color: #f36b32; padding: 30px 30px 15px; border-radius: 0 30px 30px 30px;">
+                                                <div class="column_attr clearfix" style="background-color: #0ac2ce; padding: 30px 30px 15px; border-radius: 0 30px 30px 30px;">
                                                     <div class="image_frame image_item no_link scale-with-grid alignnone no_border">
                                                         <div class="image_wrapper"><img class="scale-with-grid" src="content/itservice4/images/itservice-icon3.png" /></div>
                                                     </div>
                                                     <hr class="no_line" style="margin: 0 auto 15px;" />
-                                                    <h6 style="color: #0ac2ce;">در سریع ترین زمان ممکن</h6>
+                                                    <h6 >در سریع ترین زمان ممکن</h6>
                                                 </div>
                                             </div>
                                         </div>
