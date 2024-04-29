@@ -37,7 +37,7 @@
                                     </p>
                                     <h5>ایمیل</h5>
                                     <p class="big" >
-                                        <a style="background-color:#0ac2ce" href="#">hajigare@gmail.com</a>
+                                        <a style="color:#0ac2ce" href="#">hajigare@gmail.com</a>
                                     </p>
                                 </div>
                             </aside>
