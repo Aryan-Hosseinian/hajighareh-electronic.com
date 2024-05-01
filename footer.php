@@ -50,6 +50,7 @@
 
                                     <form id="newsletterform">
                                         <span>
+                                        <img referrerpolicy="origin" src="https://trustseal.enamad.ir/logo.aspx?id=486371&amp;Code=MDrP0gSSZ3FqxI8LMiTQ3BH1vBaJi6x6" alt="" style="cursor:pointer" code="MDrP0gSSZ3FqxI8LMiTQ3BH1vBaJi6x6">
                                            <!-- <img src="content/itservice4/images/ts.png" alt="ts"> -->
                                            <!-- <input type="text" id="name_news" name="name_news" size="40" aria-required="true" aria-invalid="false" placeholder="نام شما" /> -->
                                         </span>
