@@ -57,7 +57,7 @@
 
 
                                         
-                                      <!--  <script> 
+                                        <script> 
                                     
                                     document.write(
   '<a href="javascript:viewZibalTrust();" title="درگاه بانکی زیبال"><img style="width:30% " src="https://zibal.ir/trust/assets/1.png" border="0" alt="در گاه بانکی زیبال"></a>'
@@ -71,7 +71,7 @@ function viewZibalTrust() {
 }
                                     
                                     
-                                    </script> -->
+                                    </script> 
 
 
 
