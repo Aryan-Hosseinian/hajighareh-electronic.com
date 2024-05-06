@@ -68,6 +68,22 @@
                                                 </li>
                                                 <li>
                                                     <a href="#"><span>دیتاشیت ها</span></a>
+    <ul class="sub-menu">
+        <li><a href="#">فلت های COF</a></li>
+        <li>
+            <a href="#">نرم افزار ها (فایل فلش)</a>
+            <ul class="sub-menu">
+                <li><a href="#">نام تلوزیون ها</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#">برد تیکان</a>
+            <ul class="sub-menu">
+                <li><a href="#">نام تلوزیون ها</a></li>
+            </ul>
+        </li>
+        <!-- Repeat the same structure for other menu items -->
+    </ul>
                                                 </li>
                                                 <li>
                                                     <a href="tel:+989145910710">
