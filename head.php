@@ -31,43 +31,6 @@
                                                 </li>
                                                 <li>
                                                     <a href="#"><span>فروشگاه</span></a>
-                                                    <ul class="sub-menu">
-                                                       <li><a href="#">فلت های COF</a></li>
-                                                       <li><a href="#">نرم افزار ها  (فایل فلش)</a></li>
-                                                       <ul class="sub-menu">
-                <li><a href="#">نام تلوزیون ها</a></li>
-            </ul>
-                                                        <li><a href="#">برد تیکان</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>
-                                                        <li><a href="#">Main Board</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>  
-                                                        <li><a href="#">پاور/ تغذیه</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>   
-                                                        <li><a href="#">برد آدرس</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>  
-                                                        <li><a href="#">آی سی ها / IC</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>     
-                                                        <li><a href="#">ماژول ها</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>        
-                                                    </ul>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><span>آموزش ها</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#"><span>دیتاشیت ها</span></a>
     <ul class="sub-menu">
         <li><a href="#">فلت های COF</a></li>
         <li>
@@ -82,8 +45,13 @@
                 <li><a href="#">نام تلوزیون ها</a></li>
             </ul>
         </li>
-        <!-- Repeat the same structure for other menu items -->
     </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><span>آموزش ها</span></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#"><span>دیتاشیت ها</span></a>
                                                 </li>
                                                 <li>
                                                     <a href="tel:+989145910710">
