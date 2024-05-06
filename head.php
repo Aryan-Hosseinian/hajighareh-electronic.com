@@ -36,43 +36,43 @@
                                                                <li>
                                                                  <a href="#">نرم افزار ها (فایل فلش)</a>
                                                                  <ul class="sub-menu">
-                                                                     <li><a href="#">نام تلوزیون ها</a></li>
+                                                                     <li><a href="#">نام تلویزیون ها</a></li>
                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">برد تیکان</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلوزیون ها</a></li>
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">برد آدرس</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلوزیون ها</a></li>
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">Main Board</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلوزیون ها</a></li>
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">پاور / تغذیه</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلوزیون ها</a></li>
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">آی سی ها / IC</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلوزیون ها</a></li>
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">ماژول ها</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلوزیون ها</a></li>
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
                                                                 </li>
                                                         </ul>
