@@ -18,6 +18,16 @@
                                                 </li>
                                                 <li>
                                                     <a href="#"><span>خدمات</span></a>
+                                                     <ul class="sub-menu">
+                                                       <li><a href="#">باندینگ</a></li>
+                                                       <li><a href="#">BGA</a></li>
+                                                       <li><a href="#">EMMC</a></li>
+                                                       <li><a href="#">BGA</a></li>
+                                                       <li><a href="#">DUMP Point</a></li>
+                                                       <li><a href="#">تعویض بک لایت در محل</a></li>
+                                                       <li><a href="#">تعویض main board</a></li>
+                                                       <li><a href="#">رایت برنامه های emmc, nand, eprom</a></li>
+                                                     </ul>
                                                 </li>
                                                 <li>
                                                     <a href="#"><span>فروشگاه</span></a>
