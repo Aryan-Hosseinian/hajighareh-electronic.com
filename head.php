@@ -34,9 +34,9 @@
                                                     <ul class="sub-menu">
                                                        <li><a href="#">فلت های COF</a></li>
                                                        <li><a href="#">نرم افزار ها  (فایل فلش)</a></li>
-                                                            <ul class="sub-menu">
-                                                            <li><a href="#">نام تلوزیون ها</a></li>
-                                                            </ul>
+                                                       <ul class="sub-menu">
+                <li><a href="#">نام تلوزیون ها</a></li>
+            </ul>
                                                         <li><a href="#">برد تیکان</a></li>
                                                             <ul class="sub-menu">
                                                             <li><a href="#">نام تلوزیون ها</a></li>
