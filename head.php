@@ -25,8 +25,8 @@
                                                        <li><a href="#">BGA</a></li>
                                                        <li><a href="#">DUMP Point</a></li>
                                                        <li><a href="#">تعویض بک لایت در محل</a></li>
-                                                       <li><a href="#">تعویض main board</a></li>
-                                                       <li><a href="#">رایت برنامه های emmc, nand, eprom</a></li>
+                                                       <li><a href="#">تعمیر main board</a></li>
+                                                       <li><a href="#">رایت برنامه های emmc, nand, EEprom</a></li>
                                                      </ul>
                                                 </li>
                                                 <li>
@@ -36,7 +36,10 @@
                                                                <li>
                                                                  <a href="#">نرم افزار ها (فایل فلش)</a>
                                                                  <ul class="sub-menu">
-                                                                     <li><a href="#">نام تلویزیون ها</a></li>
+                                                                     <li><a href="#">سامسونگ</a></li>
+                                                                 </ul>
+                                                                 <ul class="sub-menu">
+                                                                     <li><a href="#">ال جی</a></li>
                                                                  </ul>
                                                                 </li>
                                                                 <li>
@@ -71,6 +74,12 @@
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">ماژول ها</a>
+                                                                  <ul class="sub-menu">
+                                                                      <li><a href="#">نام تلویزیون ها</a></li>
+                                                                  </ul>
+                                                                </li>
+                                                                <li>
+                                                                  <a href="#">لوازم جانبی</a>
                                                                   <ul class="sub-menu">
                                                                       <li><a href="#">نام تلویزیون ها</a></li>
                                                                   </ul>
