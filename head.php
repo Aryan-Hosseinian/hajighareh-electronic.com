@@ -38,50 +38,99 @@
                                                                  <ul class="sub-menu">
                                                                      <li><a href="#">سامسونگ</a></li>
                                                                      <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>
+
 
                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">برد تیکان</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">برد آدرس</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">Main Board</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">پاور / تغذیه</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">آی سی ها / IC</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">ماژول ها</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                                 <li>
                                                                   <a href="#">لوازم جانبی</a>
                                                                   <ul class="sub-menu">
-                                                                      <li><a href="#">نام تلویزیون ها</a></li>
-                                                                  </ul>
+                                                                  <li><a href="#">سامسونگ</a></li>
+                                                                     <li><a href="#">ال جی</a></li>
+                                                                     <li><a href="#">سونی</a></li>
+                                                                     <li><a href="#">ایکس ویژن</a></li>
+                                                                     <li><a href="#">دوو</a></li>
+                                                                     <li><a href="#">اسنوا</a></li>
+                                                                     <li><a href="#">صنام</a></li>
+                                                                     <li><a href="#">متفرقه</a></li>                                                                  </ul>
                                                                 </li>
                                                         </ul>
                                                 </li>
