@@ -37,9 +37,8 @@
                                                                  <a href="#">نرم افزار ها (فایل فلش)</a>
                                                                  <ul class="sub-menu">
                                                                      <li><a href="#">سامسونگ</a></li>
-                                                                 </ul>
-                                                                 <ul class="sub-menu">
                                                                      <li><a href="#">ال جی</a></li>
+
                                                                  </ul>
                                                                 </li>
                                                                 <li>
