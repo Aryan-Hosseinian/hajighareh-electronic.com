@@ -20,7 +20,6 @@
                                                     <a href="#"><span>خدمات</span></a>
                                                      <ul class="sub-menu">
                                                        <li><a href="#">باندینگ</a></li>
-                                                       <li><a href="#">BGA</a></li>
                                                        <li><a href="#">EMMC</a></li>
                                                        <li><a href="#">BGA</a></li>
                                                        <li><a href="#">DUMP Point</a></li>
@@ -32,7 +31,7 @@
                                                 <li>
                                                     <a href="#"><span>فروشگاه</span></a>
                                                        <ul class="sub-menu">
-                                                           <li><a href="#">فلت های COF</a></li>
+                                                           <li><a href="https://www.hajighareh-electronic.com/shop/">فلت های COF</a></li>
                                                                <li>
                                                                  <a href="#">نرم افزار ها (فایل فلش)</a>
                                                                  <ul class="sub-menu">
