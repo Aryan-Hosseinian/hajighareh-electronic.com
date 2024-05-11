@@ -31,7 +31,7 @@
                                                 <li>
                                                     <a href="#"><span>فروشگاه</span></a>
                                                        <ul class="sub-menu">
-                                                           <li><a href="https://www.hajighareh-electronic.com/shop/">فلت های COF</a></li>
+                                                           <li><a href="https://www.hajighareh-electronic.com/">فلت های COF</a></li>
                                                                <li>
                                                                  <a href="#">نرم افزار ها (فایل فلش)</a>
                                                                  <ul class="sub-menu">
