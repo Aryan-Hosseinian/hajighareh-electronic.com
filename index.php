@@ -407,7 +407,7 @@
                                                     <div class="image_wrapper">
                                                         <a href="#">
                                                             <div class="mask"></div>
-                                                            <img class="scale-with-grid" src="content/itservice4/images/itservice4-client2.png" />
+                                                            <img class="scale-with-grid" src="content/itservice4/images/hjwhite.png" />
                                                         </a>
 
                                                         <div class="image_links">
