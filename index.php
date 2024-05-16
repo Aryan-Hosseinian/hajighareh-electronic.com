@@ -363,7 +363,7 @@
                                         <div class="mcb-wrap-inner">
                                             <div class="column mcb-column one column_image">
                                                 <div class="image_frame image_item no_link scale-with-grid no_border">
-                                                    <div class="image_wrapper"><img class="scale-with-grid" src="content/itservice4/images/itservice-home-pic4.jpg" /></div>
+                                                    <div class="image_wrapper"><img class="scale-with-grid" src="content/itservice4/images/hjwhite.png" /></div>
                                                 </div>
                                             </div>
                                         </div>
