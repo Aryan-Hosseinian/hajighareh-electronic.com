@@ -9,9 +9,9 @@
                                     </div>
                                     <hr class="no_line" style="margin: 0 auto 20px;" />
                                     <p>
-                                        تبریز ، 
-                                        خیابان امام خمینی، جنب ایستگاه مترو میدان قطب، 
-                                        مجتمع تجاری مهدیه، پلاک 15
+                                     
+                                        تبریز، خیابان امام خمینی، جنب ایستگاه مترو میدان قطب، مجتمع تجاری مهدیه، پلاک 15 
+                                        
                                     </p>
                                     <hr class="no_line" style="margin: 0 auto 10px;" />
                                     <a href="#" class="icon_bar icon_bar_facebook icon_bar_small">
